@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BlockNote</string>
+    <string name="add_nota">Agregar nota</string>
+    <string name="button_Add">Agregar nota</string>
+    <string name="ver_nota">Visualizacion de la nota</string>
+    <string name="lista_notas">Mis Notas</string>
+    <string name="menu_crear">Crear nota</string>
+    <string name="menu_editar">Editar nota</string>
+    <string name="menu_eliminar">Eliminar nota</string>
+    <string name="menu_borrar_todas">Borrar todas</string>
+    <string name="menu_salir">Salir</string>
+    <string name="menu_Inicio">Inicio</string>
+    <string name="titulo">Título</string>
+    <string name="nota">Nota</string>
+
+
+
+</resources>
